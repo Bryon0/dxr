@@ -1,13 +1,13 @@
-2/17/2022 9:33:19 PM
+3/1/2022 9:48:51 PM
 
-[AB_L New Build](0.096)(103950):
+[AB_L New Build](0.124)(75574):
 Project:37YY250X-1.lvproj
 Target:My Computer
 BuildSpec:37YY250X-1 Phillips DXR
 OS:Windows 95/NT
 LabVIEW Version: 13.0
 
-[AB_L ProjectFileData](0.096)(103950):
+[AB_L ProjectFileData](0.124)(75574):
 NOTE:This data will be stale if the build spec has been modified and the project file has not been saved!
 
 <Item Name="37YY250X-1 Phillips DXR" Type="EXE">
@@ -34,7 +34,7 @@ NOTE:This data will be stale if the build spec has been modified and the project
 <Property Name="DestinationCount" Type="Int">2</Property>
 <Property Name="Exe_iconItemID" Type="Ref">/My Computer/dxr_16.ico</Property>
 <Property Name="Source[0].destinationIndex" Type="Int">1</Property>
-<Property Name="Source[0].itemID" Type="Str">{53FE96DD-C503-4D50-9218-C110BD396806}</Property>
+<Property Name="Source[0].itemID" Type="Str">{B45B1982-5D98-40CA-91E5-F8A01C54AE5D}</Property>
 <Property Name="Source[0].type" Type="Str">Container</Property>
 <Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 <Property Name="Source[1].itemID" Type="Ref">/My Computer/37YY250X-1 Phillips DXR.vi</Property>
@@ -52,14 +52,14 @@ NOTE:This data will be stale if the build spec has been modified and the project
 <Property Name="TgtF_targetfileName" Type="Str">37YY250X-1 Phillips DXR.exe</Property>
 </Item>
 
-[AB_L Before Build Class Data](0.135)(103950):
+[AB_L Before Build Class Data](3.413)(95429):
 buildSpecName:37YY250X-1 Phillips DXR
 linkerOption:English
 defaultLanguage:English
 supportedLanguages:[]
 excludedDirectories:[]
-buildContext:6471672806265323520
-buildObject:229307624
+buildContext:15722066436589355008
+buildObject:222781416
 preview:FALSE
 targetfileName:37YY250X-1 Phillips DXR.exe
 enableDebugging:FALSE
@@ -74,13 +74,13 @@ includeHWConfig:FALSE
 showHWConfig:FALSE
 cmdLineArgs:FALSE
 actXServerName:
-iconPath:C:\Users\admin\Desktop\dxr\2013\icon\dxr_16.ico
-iconItemID:{24361961-D1A0-43BF-A0D6-77F383D12C67}
+iconPath:C:\Users\admin\Documents\dxr-lv\dxr\icon\dxr_16.ico
+iconItemID:{7B41E202-0D0B-4605-9359-D85B7ECF317C}
 
 
 Source[0] (Container)
 path:
-itemID:{B45B1982-5D98-40CA-91E5-F8A01C54AE5D}
+itemID:{CBFB31D4-1080-4108-B034-C1145F28239F}
 containerIndex:-1
 sourceInclusion:IncludeIfReferenced
 destinationIndex:1
@@ -101,8 +101,8 @@ applyPassword:FALSE
 applyPrefix:FALSE
 
 Source[1] (VI)
-path:C:\Users\admin\Desktop\dxr\2013\37YY250X-1 Phillips DXR.vi
-itemID:{4BB9DB46-786B-4CF7-9C0F-D9B616733460}
+path:C:\Users\admin\Documents\dxr-lv\dxr\37YY250X-1 Phillips DXR.vi
+itemID:{2CCF1DC8-60E4-4858-9FD6-91036E5ED859}
 containerIndex:-1
 sourceInclusion:TopLevel
 destinationIndex:0
@@ -124,8 +124,8 @@ eng_hasNonVILinks:FALSE
 eng_reference:0
 
 Source[2] (Source)
-path:C:\Users\admin\Desktop\dxr\2013\dxr_config.txt
-itemID:{1F8CEB1A-7584-426C-8D36-72344031B921}
+path:C:\Users\admin\Documents\dxr-lv\dxr\dxr_config.txt
+itemID:{ED8539C3-7AC9-42DD-AA59-A39F7E7182FC}
 containerIndex:-1
 sourceInclusion:Include
 destinationIndex:-1
@@ -143,7 +143,7 @@ preventRename:FALSE
 
 Destination[0]
 destName:37YY250X-1 Phillips DXR.exe
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe
 libraryName:
 preserveHierarchy:TRUE
 eng_inBuild:FALSE
@@ -151,20 +151,20 @@ eng_libraryReference:0
 
 Destination[1]
 destName:Support Directory
-path:C:\Users\admin\Desktop\dxr\2013\build\data
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\data
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:FALSE
 eng_libraryReference:0
 
-[AB_L Applied Container Class Data](0.136)(103950):
+[AB_L Applied Container Class Data](3.414)(95429):
 buildSpecName:37YY250X-1 Phillips DXR
 linkerOption:English
 defaultLanguage:English
 supportedLanguages:[]
 excludedDirectories:[]
-buildContext:6471672806265323520
-buildObject:229307624
+buildContext:15722066436589355008
+buildObject:222781416
 preview:FALSE
 targetfileName:37YY250X-1 Phillips DXR.exe
 enableDebugging:FALSE
@@ -179,13 +179,13 @@ includeHWConfig:FALSE
 showHWConfig:FALSE
 cmdLineArgs:FALSE
 actXServerName:
-iconPath:C:\Users\admin\Desktop\dxr\2013\icon\dxr_16.ico
-iconItemID:{24361961-D1A0-43BF-A0D6-77F383D12C67}
+iconPath:C:\Users\admin\Documents\dxr-lv\dxr\icon\dxr_16.ico
+iconItemID:{7B41E202-0D0B-4605-9359-D85B7ECF317C}
 
 
 Source[0] (Container)
 path:
-itemID:{B45B1982-5D98-40CA-91E5-F8A01C54AE5D}
+itemID:{CBFB31D4-1080-4108-B034-C1145F28239F}
 containerIndex:-1
 sourceInclusion:IncludeIfReferenced
 destinationIndex:1
@@ -206,8 +206,8 @@ applyPassword:FALSE
 applyPrefix:FALSE
 
 Source[1] (VI)
-path:C:\Users\admin\Desktop\dxr\2013\37YY250X-1 Phillips DXR.vi
-itemID:{4BB9DB46-786B-4CF7-9C0F-D9B616733460}
+path:C:\Users\admin\Documents\dxr-lv\dxr\37YY250X-1 Phillips DXR.vi
+itemID:{2CCF1DC8-60E4-4858-9FD6-91036E5ED859}
 containerIndex:-1
 sourceInclusion:TopLevel
 destinationIndex:0
@@ -229,8 +229,8 @@ eng_hasNonVILinks:FALSE
 eng_reference:0
 
 Source[2] (Source)
-path:C:\Users\admin\Desktop\dxr\2013\dxr_config.txt
-itemID:{1F8CEB1A-7584-426C-8D36-72344031B921}
+path:C:\Users\admin\Documents\dxr-lv\dxr\dxr_config.txt
+itemID:{ED8539C3-7AC9-42DD-AA59-A39F7E7182FC}
 containerIndex:-1
 sourceInclusion:Include
 destinationIndex:-1
@@ -248,7 +248,7 @@ preventRename:FALSE
 
 Destination[0]
 destName:37YY250X-1 Phillips DXR.exe
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe
 libraryName:
 preserveHierarchy:TRUE
 eng_inBuild:FALSE
@@ -256,30 +256,30 @@ eng_libraryReference:0
 
 Destination[1]
 destName:Support Directory
-path:C:\Users\admin\Desktop\dxr\2013\build\data
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\data
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:FALSE
 eng_libraryReference:0
 
-[AB_L Opened TopLevel](0.683)(109782):
+[AB_L Opened TopLevel](3.997)(105119):
 
-[AB_L Linker Info](0.683)(109782):
+[AB_L Linker Info](3.997)(105119):
 LinksToInclude:Exclusions -
 Edit time Dep: 1
 Typedefs: 0
 Poly VIs: 0
 Unsed lib items:0
 TopLevelPaths:
-C:\Users\admin\Desktop\dxr\2013\37YY250X-1 Phillips DXR.vi
+C:\Users\admin\Documents\dxr-lv\dxr\37YY250X-1 Phillips DXR.vi
 
 
-[AB_L Post Linker](0.728)(109782):
+[AB_L Post Linker](4.377)(105119):
 
-[AB_L Linker Items](0.885)(109782):
+[AB_L Linker Items](4.404)(105119):
 
 LinkerItem[0] (existing source)
-path:C:\Users\admin\Desktop\dxr\2013\37YY250X-1 Phillips DXR.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\37YY250X-1 Phillips DXR.vi
 delimted name:37YY250X-1 Phillips DXR.vi
 type:Instrument
 buttons:0
@@ -287,8 +287,8 @@ viflags2:536870912
 links:[1,3,32,34,35,38,39,40,37,43,44,45,46,47,48,49,83]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\37YY250X-1 Phillips DXR.vi
-itemID:{4BB9DB46-786B-4CF7-9C0F-D9B616733460}
+(path:C:\Users\admin\Documents\dxr-lv\dxr\37YY250X-1 Phillips DXR.vi
+itemID:{2CCF1DC8-60E4-4858-9FD6-91036E5ED859}
 containerIndex:-1
 sourceInclusion:TopLevel
 destinationIndex:0
@@ -367,7 +367,7 @@ eng_delimitedName:
 preventRename:FALSE)
 
 LinkerItem[3] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\GetConfiguration.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\GetConfiguration.vi
 delimted name:GetConfiguration.vi
 type:Instrument
 buttons:0
@@ -375,7 +375,7 @@ viflags2:536871424
 links:[4,29]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\vi's\GetConfiguration.vi
+(path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\GetConfiguration.vi
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -1162,7 +1162,7 @@ eng_hasNonVILinks:FALSE
 eng_reference:0)
 
 LinkerItem[29] (excluded)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\GetConfiguration.vi\0
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\GetConfiguration.vi\0
 delimted name:GetConfiguration.vi:Instance:0
 type:Instrument
 buttons:0
@@ -1295,7 +1295,7 @@ eng_hasNonVILinks:FALSE
 eng_reference:0)
 
 LinkerItem[34] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\Get Operator ID.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Operator ID.vi
 delimted name:Get Operator ID.vi
 type:Instrument
 buttons:0
@@ -1303,7 +1303,7 @@ viflags2:536870912
 links:[]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\vi's\Get Operator ID.vi
+(path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Operator ID.vi
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -1662,7 +1662,7 @@ eng_hasNonVILinks:FALSE
 eng_reference:0)
 
 LinkerItem[46] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\Scan For Closed Key.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Scan For Closed Key.vi
 delimted name:Scan For Closed Key.vi
 type:Instrument
 buttons:0
@@ -1670,7 +1670,7 @@ viflags2:536870912
 links:[]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\vi's\Scan For Closed Key.vi
+(path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Scan For Closed Key.vi
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -1693,7 +1693,7 @@ eng_hasNonVILinks:FALSE
 eng_reference:0)
 
 LinkerItem[47] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\Elapsed Time.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Elapsed Time.vi
 delimted name:Elapsed Time.vi
 type:Instrument
 buttons:0
@@ -1701,7 +1701,7 @@ viflags2:536871424
 links:[]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\vi's\Elapsed Time.vi
+(path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Elapsed Time.vi
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -1755,7 +1755,7 @@ eng_hasNonVILinks:FALSE
 eng_reference:0)
 
 LinkerItem[49] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\Write Data To Table.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Write Data To Table.vi
 delimted name:Write Data To Table.vi
 type:Instrument
 buttons:0
@@ -1763,7 +1763,7 @@ viflags2:536871424
 links:[1,50,80,81,82]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\vi's\Write Data To Table.vi
+(path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Write Data To Table.vi
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -2750,7 +2750,7 @@ eng_hasNonVILinks:TRUE
 eng_reference:0)
 
 LinkerItem[81] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Red.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Red.vi
 delimted name:Get Label Info Red.vi
 type:Instrument
 buttons:32
@@ -2758,7 +2758,7 @@ viflags2:536870912
 links:[]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Red.vi
+(path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Red.vi
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -2782,7 +2782,7 @@ eng_hasNonVILinks:FALSE
 eng_reference:0)
 
 LinkerItem[82] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Green.vi
+path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Green.vi
 delimted name:Get Label Info Green.vi
 type:Instrument
 buttons:32
@@ -2790,7 +2790,7 @@ viflags2:536870912
 links:[]
 linker inclusion:include
 ClassData:(VI)
-(path:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Green.vi
+(path:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Green.vi
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -2814,7 +2814,7 @@ eng_hasNonVILinks:FALSE
 eng_reference:0)
 
 LinkerItem[83] (new source)
-path:C:\Users\admin\Desktop\dxr\2013\DXR Run Time Menu.rtm
+path:C:\Users\admin\Documents\dxr-lv\dxr\DXR Run Time Menu.rtm
 delimted name:DXR Run Time Menu.rtm
 type:Run-time menu
 buttons:0
@@ -2822,7 +2822,7 @@ viflags2:0
 links:[]
 linker inclusion:include
 ClassData:(Source)
-(path:C:\Users\admin\Desktop\dxr\2013\DXR Run Time Menu.rtm
+(path:C:\Users\admin\Documents\dxr-lv\dxr\DXR Run Time Menu.rtm
 itemID:
 containerIndex:0
 sourceInclusion:IncludeIfReferenced
@@ -2839,9 +2839,9 @@ Amalgamation Piece: FALSE
 eng_delimitedName:
 preventRename:FALSE)
 
-[AB_L Preview_PresrvHier](0.897)(109782):
+[AB_L Preview_PresrvHier](4.416)(105135):
 
-[AB_L Build Preview](0.908)(109782):
+[AB_L Build Preview](4.428)(105143):
 Files:
 37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Close.vi
 37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
@@ -2927,14 +2927,14 @@ data\dxr_config.txt(visible)
 Destination Files:
 37YY250X-1 Phillips DXR.exe
 
-Max path length: (154), C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
+Max path length: (158), C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
 
-[AB_L Create Destinations](0.935)(109782):
+[AB_L Create Destinations](4.456)(105151):
 
 
 Destination[0]
 destName:37YY250X-1 Phillips DXR.exe
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe
 libraryName:
 preserveHierarchy:TRUE
 eng_inBuild:TRUE
@@ -2942,7 +2942,7 @@ eng_libraryReference:0
 
 Destination[1]
 destName:Support Directory
-path:C:\Users\admin\Desktop\dxr\2013\build\data
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\data
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -2950,7 +2950,7 @@ eng_libraryReference:0
 
 Destination[2]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -2958,7 +2958,7 @@ eng_libraryReference:0
 
 Destination[3]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\dlg_ctls.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\dlg_ctls.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -2966,7 +2966,7 @@ eng_libraryReference:0
 
 Destination[4]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -2974,7 +2974,7 @@ eng_libraryReference:0
 
 Destination[5]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -2982,7 +2982,7 @@ eng_libraryReference:0
 
 Destination[6]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -2990,7 +2990,7 @@ eng_libraryReference:0
 
 Destination[7]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -2998,7 +2998,7 @@ eng_libraryReference:0
 
 Destination[8]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3006,7 +3006,7 @@ eng_libraryReference:0
 
 Destination[9]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\png.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\png.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3014,7 +3014,7 @@ eng_libraryReference:0
 
 Destination[10]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\pictutil.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\pictutil.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3022,7 +3022,7 @@ eng_libraryReference:0
 
 Destination[11]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3030,7 +3030,7 @@ eng_libraryReference:0
 
 Destination[12]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express input\FileDialogBlock.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express input\FileDialogBlock.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3038,7 +3038,7 @@ eng_libraryReference:0
 
 Destination[13]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express shared
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express shared
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3046,7 +3046,7 @@ eng_libraryReference:0
 
 Destination[14]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3054,7 +3054,7 @@ eng_libraryReference:0
 
 Destination[15]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Utility VI's
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Utility VI's
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3062,7 +3062,7 @@ eng_libraryReference:0
 
 Destination[16]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3070,7 +3070,7 @@ eng_libraryReference:0
 
 Destination[17]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3078,7 +3078,7 @@ eng_libraryReference:0
 
 Destination[18]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Data VI's
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Data VI's
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3086,7 +3086,7 @@ eng_libraryReference:0
 
 Destination[19]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\event_ctls.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\event_ctls.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
@@ -3094,17 +3094,17 @@ eng_libraryReference:0
 
 Destination[20]
 destName:
-path:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\miscctls.llb
+path:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\miscctls.llb
 libraryName:
 preserveHierarchy:FALSE
 eng_inBuild:TRUE
 eng_libraryReference:0
 
-[AB_L Copy Files](1.000)(110258):
+[AB_L Copy Files](4.525)(105647):
 
 SourceItem[7]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\NI_FileType.lvlib
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\NI_FileType.lvlib
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\NI_FileType.lvlib
 newDelimitedName:NI_FileType.lvlib
 oldDelimitedName:NI_FileType.lvlib
 LLBtopLevel?:FALSE
@@ -3112,11 +3112,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:65
+processTime:64
 
 SourceItem[2]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\dxr_config.txt
-newPath:C:\Users\admin\Desktop\dxr\2013\build\data\dxr_config.txt
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\dxr_config.txt
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\data\dxr_config.txt
 newDelimitedName:dxr_config.txt
 oldDelimitedName:dxr_config.txt
 LLBtopLevel?:FALSE
@@ -3124,11 +3124,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:1
+processTime:3
 
 SourceItem[80]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\DXR Run Time Menu.rtm
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\DXR Run Time Menu.rtm
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\DXR Run Time Menu.rtm
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\DXR Run Time Menu.rtm
 newDelimitedName:DXR Run Time Menu.rtm
 oldDelimitedName:DXR Run Time Menu.rtm
 LLBtopLevel?:FALSE
@@ -3140,7 +3140,7 @@ processTime:1
 
 SourceItem[15]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\picture.llb\imagedata.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\imagedata.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\imagedata.ctl
 newDelimitedName:imagedata.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3148,11 +3148,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:26
+processTime:25
 
 SourceItem[19]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\pictutil.llb\Bit-array To Byte-array.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\pictutil.llb\Bit-array To Byte-array.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\pictutil.llb\Bit-array To Byte-array.vi
 newDelimitedName:Bit-array To Byte-array.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3160,11 +3160,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:5
+processTime:7
 
 SourceItem[18]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\picture.llb\Create Mask By Alpha.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Create Mask By Alpha.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Create Mask By Alpha.vi
 newDelimitedName:Create Mask By Alpha.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3172,11 +3172,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:4
+processTime:3
 
 SourceItem[21]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\jpeg.llb\Directory of Top Level VI.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Directory of Top Level VI.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Directory of Top Level VI.vi
 newDelimitedName:Directory of Top Level VI.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3184,11 +3184,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:17
+processTime:16
 
 SourceItem[20]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\jpeg.llb\Check Path.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Check Path.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Check Path.vi
 newDelimitedName:Check Path.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3196,11 +3196,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:4
+processTime:3
 
 SourceItem[17]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\png.llb\Read PNG File.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\png.llb\Read PNG File.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\png.llb\Read PNG File.vi
 newDelimitedName:Read PNG File.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3212,7 +3212,7 @@ processTime:3
 
 SourceItem[10]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\FT_FileTypes.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\FT_FileTypes.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\FT_FileTypes.ctl
 newDelimitedName:NI_FileType.lvlib:FT_FileTypes.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3224,7 +3224,7 @@ processTime:10
 
 SourceItem[27]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Is VI.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is VI.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is VI.vi
 newDelimitedName:NI_FileType.lvlib:Convert filetype to Is VI.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3236,7 +3236,7 @@ processTime:3
 
 SourceItem[25]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Is library type.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is library type.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is library type.vi
 newDelimitedName:NI_FileType.lvlib:Convert filetype to Is library type.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3244,11 +3244,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:2
+processTime:3
 
 SourceItem[23]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Is LabVIEW document.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is LabVIEW document.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is LabVIEW document.vi
 newDelimitedName:NI_FileType.lvlib:Convert filetype to Is LabVIEW document.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3260,7 +3260,7 @@ processTime:3
 
 SourceItem[16]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Icon Image.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Icon Image.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Icon Image.vi
 newDelimitedName:NI_FileType.lvlib:Convert filetype to Icon Image.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3268,11 +3268,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:2
+processTime:3
 
 SourceItem[13]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Can be in LLB.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Can be in LLB.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Can be in LLB.vi
 newDelimitedName:NI_FileType.lvlib:Convert filetype to Can be in LLB.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3284,7 +3284,7 @@ processTime:3
 
 SourceItem[11]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\LVFileType.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\LVFileType.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\LVFileType.ctl
 newDelimitedName:NI_FileType.lvlib:LVFileType.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3296,7 +3296,7 @@ processTime:2
 
 SourceItem[12]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Error Cluster From Error Code.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Cluster From Error Code.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Cluster From Error Code.vi
 newDelimitedName:Error Cluster From Error Code.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3304,11 +3304,11 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:8
+processTime:11
 
 SourceItem[9]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Get File Type.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type.vi
 newDelimitedName:NI_FileType.lvlib:Get File Type.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3316,11 +3316,11 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:3
+processTime:4
 
 SourceItem[6]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File an LLB.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File an LLB.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File an LLB.vi
 newDelimitedName:NI_FileType.lvlib:Is File an LLB.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3332,7 +3332,7 @@ processTime:8
 
 SourceItem[5]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Application Directory.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Application Directory.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Application Directory.vi
 newDelimitedName:Application Directory.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3340,11 +3340,11 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:11
+processTime:13
 
 SourceItem[29]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\express\express shared\ex_CorrectErrorChain.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express shared\ex_CorrectErrorChain.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express shared\ex_CorrectErrorChain.vi
 newDelimitedName:ex_CorrectErrorChain.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3352,11 +3352,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:14
+processTime:16
 
 SourceItem[28]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\express\express input\FileDialogBlock.llb\subFile Dialog.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express input\FileDialogBlock.llb\subFile Dialog.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express input\FileDialogBlock.llb\subFile Dialog.vi
 newDelimitedName:subFile Dialog.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3364,11 +3364,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:2
+processTime:3
 
 SourceItem[4]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\GetConfiguration.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\GetConfiguration.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\GetConfiguration.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\GetConfiguration.vi
 newDelimitedName:GetConfiguration.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3376,72 +3376,12 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:3
+processTime:6
 
 SourceItem[32]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Get Operator ID.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Get Operator ID.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Operator ID.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Get Operator ID.vi
 newDelimitedName:Get Operator ID.vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:FALSE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:3
-
-SourceItem[34]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Utility VI's\Reset.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Utility VI's\Reset.vi
-newDelimitedName:Reset.vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:FALSE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:11
-
-SourceItem[39]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Serial Instr).vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Serial Instr).vi
-newDelimitedName:VISA Configure Serial Port (Serial Instr).vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:TRUE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:7
-
-SourceItem[38]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Instr).vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Instr).vi
-newDelimitedName:VISA Configure Serial Port (Instr).vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:TRUE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:7
-
-SourceItem[37]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port
-newDelimitedName:VISA Configure Serial Port
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:TRUE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:2
-
-SourceItem[35]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Close.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Close.vi
-newDelimitedName:Close.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
 HasNonVILinks?:FALSE
@@ -3450,9 +3390,69 @@ appTopLevel?:FALSE
 IsRTM?:FALSE
 processTime:4
 
+SourceItem[34]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Utility VI's\Reset.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Utility VI's\Reset.vi
+newDelimitedName:Reset.vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:FALSE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:14
+
+SourceItem[39]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Serial Instr).vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Serial Instr).vi
+newDelimitedName:VISA Configure Serial Port (Serial Instr).vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:TRUE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:9
+
+SourceItem[38]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Instr).vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Instr).vi
+newDelimitedName:VISA Configure Serial Port (Instr).vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:TRUE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:9
+
+SourceItem[37]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port
+newDelimitedName:VISA Configure Serial Port
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:TRUE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:4
+
+SourceItem[35]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Close.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Close.vi
+newDelimitedName:Close.vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:FALSE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:5
+
 SourceItem[33]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Initialize.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Initialize.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Initialize.vi
 newDelimitedName:Initialize.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3460,11 +3460,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:3
+processTime:7
 
 SourceItem[40]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
 newDelimitedName:Configure Current Limit.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3472,11 +3472,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:5
+processTime:9
 
 SourceItem[41]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Voltage Level.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Voltage Level.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Voltage Level.vi
 newDelimitedName:Configure Voltage Level.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3484,11 +3484,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:5
+processTime:9
 
 SourceItem[42]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
 newDelimitedName:Configure Output Enabled.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3496,11 +3496,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:5
+processTime:7
 
 SourceItem[43]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Scan For Closed Key.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Scan For Closed Key.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Scan For Closed Key.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Scan For Closed Key.vi
 newDelimitedName:Scan For Closed Key.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3508,11 +3508,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:6
+processTime:8
 
 SourceItem[44]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Elapsed Time.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Elapsed Time.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Elapsed Time.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Elapsed Time.vi
 newDelimitedName:Elapsed Time.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3524,7 +3524,7 @@ processTime:5
 
 SourceItem[45]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Data VI's\Measure.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Data VI's\Measure.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Data VI's\Measure.vi
 newDelimitedName:Measure.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3532,11 +3532,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:5
+processTime:6
 
 SourceItem[3]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\dlg_ctls.llb\Space Constant.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\dlg_ctls.llb\Space Constant.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\dlg_ctls.llb\Space Constant.vi
 newDelimitedName:Space Constant.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3544,11 +3544,11 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:4
+processTime:5
 
 SourceItem[50]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write Spreadsheet String.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write Spreadsheet String.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write Spreadsheet String.vi
 newDelimitedName:Write Spreadsheet String.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3556,11 +3556,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:19
+processTime:20
 
 SourceItem[49]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\DialogType.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogType.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogType.ctl
 newDelimitedName:DialogType.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3572,7 +3572,7 @@ processTime:11
 
 SourceItem[55]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\TagReturnType.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\TagReturnType.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\TagReturnType.ctl
 newDelimitedName:TagReturnType.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3580,11 +3580,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:7
+processTime:8
 
 SourceItem[54]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Check Special Tags.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Check Special Tags.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Check Special Tags.vi
 newDelimitedName:Check Special Tags.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3592,11 +3592,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:26
+processTime:27
 
 SourceItem[56]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Set String Value.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set String Value.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set String Value.vi
 newDelimitedName:Set String Value.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3608,7 +3608,7 @@ processTime:5
 
 SourceItem[57]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\GetRTHostConnectedProp.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetRTHostConnectedProp.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetRTHostConnectedProp.vi
 newDelimitedName:GetRTHostConnectedProp.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3616,11 +3616,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:4
+processTime:5
 
 SourceItem[58]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Error Code Database.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Code Database.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Code Database.vi
 newDelimitedName:Error Code Database.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3628,11 +3628,11 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:4
+processTime:5
 
 SourceItem[31]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\whitespace.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\whitespace.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\whitespace.ctl
 newDelimitedName:whitespace.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3644,7 +3644,7 @@ processTime:6
 
 SourceItem[30]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Trim Whitespace.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Trim Whitespace.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Trim Whitespace.vi
 newDelimitedName:Trim Whitespace.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3656,7 +3656,7 @@ processTime:3
 
 SourceItem[61]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Search and Replace Pattern.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Search and Replace Pattern.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Search and Replace Pattern.vi
 newDelimitedName:Search and Replace Pattern.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3668,7 +3668,7 @@ processTime:8
 
 SourceItem[60]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Find Tag.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Find Tag.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Find Tag.vi
 newDelimitedName:Find Tag.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3680,7 +3680,7 @@ processTime:8
 
 SourceItem[64]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\ErrWarn.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\ErrWarn.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\ErrWarn.ctl
 newDelimitedName:ErrWarn.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3688,11 +3688,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:19
+processTime:18
 
 SourceItem[65]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\event_ctls.llb\eventvkey.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\event_ctls.llb\eventvkey.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\event_ctls.llb\eventvkey.ctl
 newDelimitedName:eventvkey.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3704,7 +3704,7 @@ processTime:5
 
 SourceItem[36]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Clear Errors.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Clear Errors.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Clear Errors.vi
 newDelimitedName:Clear Errors.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3716,7 +3716,7 @@ processTime:5
 
 SourceItem[62]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Set Bold Text.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set Bold Text.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set Bold Text.vi
 newDelimitedName:Set Bold Text.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3724,11 +3724,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:6
+processTime:7
 
 SourceItem[59]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Format Message String.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Format Message String.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Format Message String.vi
 newDelimitedName:Format Message String.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3736,11 +3736,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:2
+processTime:1
 
 SourceItem[52]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\DialogTypeEnum.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogTypeEnum.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogTypeEnum.ctl
 newDelimitedName:DialogTypeEnum.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3752,7 +3752,7 @@ processTime:11
 
 SourceItem[63]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Details Display Dialog.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Details Display Dialog.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Details Display Dialog.vi
 newDelimitedName:Details Display Dialog.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3764,7 +3764,7 @@ processTime:2
 
 SourceItem[70]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Convert property node font to graphics font.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Convert property node font to graphics font.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Convert property node font to graphics font.vi
 newDelimitedName:Convert property node font to graphics font.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3776,7 +3776,7 @@ processTime:12
 
 SourceItem[71]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\picture.llb\Get Text Rect.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Get Text Rect.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Get Text Rect.vi
 newDelimitedName:Get Text Rect.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3788,7 +3788,7 @@ processTime:10
 
 SourceItem[69]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Longest Line Length in Pixels.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Longest Line Length in Pixels.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Longest Line Length in Pixels.vi
 newDelimitedName:Longest Line Length in Pixels.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3796,11 +3796,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:26
+processTime:29
 
 SourceItem[73]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\miscctls.llb\LVBoundsTypeDef.ctl
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\miscctls.llb\LVBoundsTypeDef.ctl
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\miscctls.llb\LVBoundsTypeDef.ctl
 newDelimitedName:LVBoundsTypeDef.ctl
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3812,7 +3812,7 @@ processTime:8
 
 SourceItem[72]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Get String Text Bounds.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Get String Text Bounds.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Get String Text Bounds.vi
 newDelimitedName:Get String Text Bounds.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3824,7 +3824,7 @@ processTime:3
 
 SourceItem[68]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Three Button Dialog CORE.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog CORE.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog CORE.vi
 newDelimitedName:Three Button Dialog CORE.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3836,7 +3836,7 @@ processTime:6
 
 SourceItem[67]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Three Button Dialog.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog.vi
 newDelimitedName:Three Button Dialog.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3848,7 +3848,7 @@ processTime:3
 
 SourceItem[75]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\GetHelpDir.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetHelpDir.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetHelpDir.vi
 newDelimitedName:GetHelpDir.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3856,11 +3856,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:18
+processTime:20
 
 SourceItem[74]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\BuildHelpPath.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\BuildHelpPath.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\BuildHelpPath.vi
 newDelimitedName:BuildHelpPath.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3868,11 +3868,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:3
+processTime:4
 
 SourceItem[66]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Not Found Dialog.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Not Found Dialog.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Not Found Dialog.vi
 newDelimitedName:Not Found Dialog.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3884,20 +3884,8 @@ processTime:3
 
 SourceItem[53]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\General Error Handler CORE.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler CORE.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler CORE.vi
 newDelimitedName:General Error Handler CORE.vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:TRUE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:4
-
-SourceItem[51]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\General Error Handler.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler.vi
-newDelimitedName:General Error Handler.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
 HasNonVILinks?:TRUE
@@ -3906,9 +3894,21 @@ appTopLevel?:FALSE
 IsRTM?:FALSE
 processTime:3
 
+SourceItem[51]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\General Error Handler.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler.vi
+newDelimitedName:General Error Handler.vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:TRUE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:2
+
 SourceItem[48]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File (DBL).vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (DBL).vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (DBL).vi
 newDelimitedName:Write To Spreadsheet File (DBL).vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3920,7 +3920,7 @@ processTime:3
 
 SourceItem[76]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File (I64).vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (I64).vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (I64).vi
 newDelimitedName:Write To Spreadsheet File (I64).vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3928,11 +3928,11 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:2
+processTime:3
 
 SourceItem[77]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File (string).vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (string).vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (string).vi
 newDelimitedName:Write To Spreadsheet File (string).vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3944,7 +3944,7 @@ processTime:3
 
 SourceItem[47]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File.vi
 newDelimitedName:Write To Spreadsheet File.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3955,9 +3955,21 @@ IsRTM?:FALSE
 processTime:2
 
 SourceItem[78]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Red.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Red.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Red.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Red.vi
 newDelimitedName:Get Label Info Red.vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:FALSE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:3
+
+SourceItem[79]
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Green.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Green.vi
+newDelimitedName:Get Label Info Green.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
 HasNonVILinks?:FALSE
@@ -3966,21 +3978,9 @@ appTopLevel?:FALSE
 IsRTM?:FALSE
 processTime:4
 
-SourceItem[79]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Green.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Green.vi
-newDelimitedName:Get Label Info Green.vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:FALSE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:3
-
 SourceItem[46]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Write Data To Table.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Write Data To Table.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Write Data To Table.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Write Data To Table.vi
 newDelimitedName:Write Data To Table.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -3988,11 +3988,11 @@ HasNonVILinks?:FALSE
 IsNonVILink?:FALSE
 appTopLevel?:FALSE
 IsRTM?:FALSE
-processTime:3
+processTime:2
 
 SourceItem[1]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\37YY250X-1 Phillips DXR.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\37YY250X-1 Phillips DXR.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\37YY250X-1 Phillips DXR.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\37YY250X-1 Phillips DXR.vi
 newDelimitedName:37YY250X-1 Phillips DXR.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -4000,11 +4000,11 @@ HasNonVILinks?:TRUE
 IsNonVILink?:FALSE
 appTopLevel?:TRUE
 IsRTM?:FALSE
-processTime:2
+processTime:3
 
 SourceItem[8]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Can File be in LLB.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Can File be in LLB.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Can File be in LLB.vi
 newDelimitedName:NI_FileType.lvlib:Can File be in LLB.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -4016,7 +4016,7 @@ processTime:3
 
 SourceItem[14]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Get File Type Icon Image.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type Icon Image.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type Icon Image.vi
 newDelimitedName:NI_FileType.lvlib:Get File Type Icon Image.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
@@ -4028,32 +4028,8 @@ processTime:3
 
 SourceItem[22]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File a LabVIEW document.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a LabVIEW document.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a LabVIEW document.vi
 newDelimitedName:NI_FileType.lvlib:Is File a LabVIEW document.vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:FALSE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:2
-
-SourceItem[24]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
-newDelimitedName:NI_FileType.lvlib:Is File a type of library.vi
-oldDelimitedName:
-LLBtopLevel?:FALSE
-HasNonVILinks?:FALSE
-IsNonVILink?:FALSE
-appTopLevel?:FALSE
-IsRTM?:FALSE
-processTime:4
-
-SourceItem[26]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File VI.vi
-newPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File VI.vi
-newDelimitedName:NI_FileType.lvlib:Is File VI.vi
 oldDelimitedName:
 LLBtopLevel?:FALSE
 HasNonVILinks?:FALSE
@@ -4062,493 +4038,517 @@ appTopLevel?:FALSE
 IsRTM?:FALSE
 processTime:3
 
-[AB_L Save&Close Files](1.559)(117096):
+SourceItem[24]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
+newDelimitedName:NI_FileType.lvlib:Is File a type of library.vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:FALSE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:3
 
-[AB_L Post Prepare Files](1.569)(117824):
+SourceItem[26]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File VI.vi
+newPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File VI.vi
+newDelimitedName:NI_FileType.lvlib:Is File VI.vi
+oldDelimitedName:
+LLBtopLevel?:FALSE
+HasNonVILinks?:FALSE
+IsNonVILink?:FALSE
+appTopLevel?:FALSE
+IsRTM?:FALSE
+processTime:2
+
+[AB_L Save&Close Files](5.135)(113241):
+
+[AB_L Post Prepare Files](5.145)(113889):
 
 SourceItem[0]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\NI_FileType.lvlib
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\NI_FileType.lvlib
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\NI_FileType.lvlib
 saveLevel:0x0
-saveTime:35
+saveTime:92
 
 SourceItem[1]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\dxr_config.txt
-destPath:C:\Users\admin\Desktop\dxr\2013\build\data\dxr_config.txt
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\dxr_config.txt
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\data\dxr_config.txt
 saveLevel:0x0
-saveTime:0
+saveTime:1
 
 SourceItem[2]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\DXR Run Time Menu.rtm
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\DXR Run Time Menu.rtm
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\DXR Run Time Menu.rtm
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\DXR Run Time Menu.rtm
 saveLevel:0x0
 saveTime:0
 
 SourceItem[3]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\picture.llb\imagedata.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\imagedata.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\imagedata.ctl
 saveLevel:0x42000
 saveTime:4
 
 SourceItem[4]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\pictutil.llb\Bit-array To Byte-array.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\pictutil.llb\Bit-array To Byte-array.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\pictutil.llb\Bit-array To Byte-array.vi
 saveLevel:0x42003
-saveTime:3
+saveTime:2
 
 SourceItem[5]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\picture.llb\Create Mask By Alpha.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Create Mask By Alpha.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Create Mask By Alpha.vi
 saveLevel:0x42003
 saveTime:4
 
 SourceItem[6]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\jpeg.llb\Directory of Top Level VI.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Directory of Top Level VI.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Directory of Top Level VI.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[7]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\jpeg.llb\Check Path.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Check Path.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\jpeg.llb\Check Path.vi
 saveLevel:0x42003
-saveTime:3
+saveTime:4
 
 SourceItem[8]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\png.llb\Read PNG File.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\png.llb\Read PNG File.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\png.llb\Read PNG File.vi
 saveLevel:0x42003
-saveTime:6
+saveTime:5
 
 SourceItem[9]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\FT_FileTypes.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\FT_FileTypes.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\FT_FileTypes.ctl
 saveLevel:0x42000
 saveTime:3
 
 SourceItem[10]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Is VI.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is VI.vi
-saveLevel:0x42003
-saveTime:5
-
-SourceItem[11]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Is library type.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is library type.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is VI.vi
 saveLevel:0x42003
 saveTime:3
 
+SourceItem[11]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Is library type.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is library type.vi
+saveLevel:0x42003
+saveTime:4
+
 SourceItem[12]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Is LabVIEW document.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is LabVIEW document.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Is LabVIEW document.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[13]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Icon Image.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Icon Image.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Icon Image.vi
 saveLevel:0x42003
 saveTime:5
 
 SourceItem[14]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Convert filetype to Can be in LLB.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Can be in LLB.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Convert filetype to Can be in LLB.vi
 saveLevel:0x42003
-saveTime:4
+saveTime:2
 
 SourceItem[15]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\LVFileType.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\LVFileType.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\LVFileType.ctl
 saveLevel:0x42000
-saveTime:3
+saveTime:4
 
 SourceItem[16]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Error Cluster From Error Code.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Cluster From Error Code.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Cluster From Error Code.vi
 saveLevel:0x42003
-saveTime:4
+saveTime:3
 
 SourceItem[17]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Get File Type.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type.vi
 saveLevel:0x42003
 saveTime:5
 
 SourceItem[18]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File an LLB.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File an LLB.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File an LLB.vi
 saveLevel:0x42003
 saveTime:4
 
 SourceItem[19]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Application Directory.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Application Directory.vi
-saveLevel:0x42003
-saveTime:3
-
-SourceItem[20]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\express\express shared\ex_CorrectErrorChain.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express shared\ex_CorrectErrorChain.vi
-saveLevel:0x42003
-saveTime:5
-
-SourceItem[21]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\express\express input\FileDialogBlock.llb\subFile Dialog.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express input\FileDialogBlock.llb\subFile Dialog.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Application Directory.vi
 saveLevel:0x42003
 saveTime:4
 
-SourceItem[22]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\GetConfiguration.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\GetConfiguration.vi
+SourceItem[20]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\express\express shared\ex_CorrectErrorChain.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express shared\ex_CorrectErrorChain.vi
 saveLevel:0x42003
-saveTime:8
+saveTime:4
+
+SourceItem[21]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\express\express input\FileDialogBlock.llb\subFile Dialog.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\express\express input\FileDialogBlock.llb\subFile Dialog.vi
+saveLevel:0x42003
+saveTime:5
+
+SourceItem[22]
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\GetConfiguration.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\GetConfiguration.vi
+saveLevel:0x42003
+saveTime:7
 
 SourceItem[23]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Get Operator ID.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Get Operator ID.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Operator ID.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Get Operator ID.vi
 saveLevel:0x42001
-saveTime:3
+saveTime:4
 
 SourceItem[24]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Utility VI's\Reset.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Utility VI's\Reset.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Utility VI's\Reset.vi
 saveLevel:0x42003
-saveTime:2
+saveTime:3
 
 SourceItem[25]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Serial Instr).vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Serial Instr).vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Serial Instr).vi
 saveLevel:0x42003
 saveTime:4
 
 SourceItem[26]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Instr).vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Instr).vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port (Instr).vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[27]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Instr\_visa.llb\VISA Configure Serial Port
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Instr\_visa.llb\VISA Configure Serial Port
 saveLevel:0x42000
 saveTime:4
 
 SourceItem[28]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Close.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Close.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Close.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[29]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Initialize.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Initialize.vi
-saveLevel:0x42003
-saveTime:5
-
-SourceItem[30]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
-saveLevel:0x42003
-saveTime:3
-
-SourceItem[31]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Voltage Level.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Voltage Level.vi
-saveLevel:0x42003
-saveTime:2
-
-SourceItem[32]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
-saveLevel:0x42003
-saveTime:3
-
-SourceItem[33]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Scan For Closed Key.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Scan For Closed Key.vi
-saveLevel:0x42003
-saveTime:3
-
-SourceItem[34]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Elapsed Time.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Elapsed Time.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Initialize.vi
 saveLevel:0x42003
 saveTime:4
 
+SourceItem[30]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Current Limit.vi
+saveLevel:0x42003
+saveTime:4
+
+SourceItem[31]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Voltage Level.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Voltage Level.vi
+saveLevel:0x42003
+saveTime:3
+
+SourceItem[32]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Configure VI's\Configure Output Enabled.vi
+saveLevel:0x42003
+saveTime:2
+
+SourceItem[33]
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Scan For Closed Key.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Scan For Closed Key.vi
+saveLevel:0x42003
+saveTime:4
+
+SourceItem[34]
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Elapsed Time.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Elapsed Time.vi
+saveLevel:0x42003
+saveTime:3
+
 SourceItem[35]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\instr.lib\Agilent E364X Series\Public\Data VI's\Measure.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Data VI's\Measure.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\instr.lib\Agilent E364X Series\Public\Data VI's\Measure.vi
 saveLevel:0x42003
 saveTime:2
 
 SourceItem[36]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\dlg_ctls.llb\Space Constant.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\dlg_ctls.llb\Space Constant.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\dlg_ctls.llb\Space Constant.vi
 saveLevel:0x42003
 saveTime:2
 
 SourceItem[37]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write Spreadsheet String.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write Spreadsheet String.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write Spreadsheet String.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[38]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\DialogType.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogType.ctl
-saveLevel:0x42000
-saveTime:4
-
-SourceItem[39]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\TagReturnType.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\TagReturnType.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogType.ctl
 saveLevel:0x42000
 saveTime:2
 
+SourceItem[39]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\TagReturnType.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\TagReturnType.ctl
+saveLevel:0x42000
+saveTime:4
+
 SourceItem[40]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Check Special Tags.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Check Special Tags.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Check Special Tags.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[41]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Set String Value.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set String Value.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set String Value.vi
 saveLevel:0x42003
 saveTime:2
 
 SourceItem[42]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\GetRTHostConnectedProp.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetRTHostConnectedProp.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetRTHostConnectedProp.vi
 saveLevel:0x42003
-saveTime:2
+saveTime:3
 
 SourceItem[43]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Error Code Database.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Code Database.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Error Code Database.vi
 saveLevel:0x42003
-saveTime:4
+saveTime:3
 
 SourceItem[44]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\whitespace.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\whitespace.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\whitespace.ctl
 saveLevel:0x42000
 saveTime:3
 
 SourceItem[45]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Trim Whitespace.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Trim Whitespace.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Trim Whitespace.vi
 saveLevel:0x42003
-saveTime:2
+saveTime:3
 
 SourceItem[46]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Search and Replace Pattern.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Search and Replace Pattern.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Search and Replace Pattern.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[47]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Find Tag.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Find Tag.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Find Tag.vi
 saveLevel:0x42003
-saveTime:3
+saveTime:4
 
 SourceItem[48]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\ErrWarn.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\ErrWarn.ctl
-saveLevel:0x42000
-saveTime:3
-
-SourceItem[49]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\event_ctls.llb\eventvkey.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\event_ctls.llb\eventvkey.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\ErrWarn.ctl
 saveLevel:0x42000
 saveTime:2
 
+SourceItem[49]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\event_ctls.llb\eventvkey.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\event_ctls.llb\eventvkey.ctl
+saveLevel:0x42000
+saveTime:3
+
 SourceItem[50]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Clear Errors.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Clear Errors.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Clear Errors.vi
 saveLevel:0x42003
-saveTime:3
+saveTime:2
 
 SourceItem[51]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Set Bold Text.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set Bold Text.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Set Bold Text.vi
 saveLevel:0x42003
 saveTime:2
 
 SourceItem[52]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Format Message String.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Format Message String.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Format Message String.vi
 saveLevel:0x42001
-saveTime:5
+saveTime:6
 
 SourceItem[53]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\DialogTypeEnum.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogTypeEnum.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\DialogTypeEnum.ctl
 saveLevel:0x42000
-saveTime:3
+saveTime:2
 
 SourceItem[54]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Details Display Dialog.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Details Display Dialog.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Details Display Dialog.vi
 saveLevel:0x42001
 saveTime:12
 
 SourceItem[55]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Convert property node font to graphics font.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Convert property node font to graphics font.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Convert property node font to graphics font.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[56]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\picture\picture.llb\Get Text Rect.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Get Text Rect.vi
-saveLevel:0x42003
-saveTime:4
-
-SourceItem[57]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Longest Line Length in Pixels.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Longest Line Length in Pixels.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\picture\picture.llb\Get Text Rect.vi
 saveLevel:0x42003
 saveTime:5
 
+SourceItem[57]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Longest Line Length in Pixels.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Longest Line Length in Pixels.vi
+saveLevel:0x42003
+saveTime:4
+
 SourceItem[58]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\miscctls.llb\LVBoundsTypeDef.ctl
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\miscctls.llb\LVBoundsTypeDef.ctl
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\miscctls.llb\LVBoundsTypeDef.ctl
 saveLevel:0x42000
-saveTime:3
+saveTime:4
 
 SourceItem[59]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Get String Text Bounds.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Get String Text Bounds.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Get String Text Bounds.vi
 saveLevel:0x42003
 saveTime:2
 
 SourceItem[60]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Three Button Dialog CORE.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog CORE.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog CORE.vi
 saveLevel:0x42001
 saveTime:19
 
 SourceItem[61]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Three Button Dialog.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Three Button Dialog.vi
 saveLevel:0x42003
-saveTime:4
+saveTime:5
 
 SourceItem[62]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\GetHelpDir.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetHelpDir.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\GetHelpDir.vi
 saveLevel:0x42003
 saveTime:3
 
 SourceItem[63]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\BuildHelpPath.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\BuildHelpPath.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\BuildHelpPath.vi
 saveLevel:0x42003
-saveTime:2
+saveTime:3
 
 SourceItem[64]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\Not Found Dialog.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Not Found Dialog.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\Not Found Dialog.vi
 saveLevel:0x42003
 saveTime:5
 
 SourceItem[65]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\General Error Handler CORE.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler CORE.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler CORE.vi
 saveLevel:0x42003
 saveTime:10
 
 SourceItem[66]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\error.llb\General Error Handler.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler.vi
-saveLevel:0x42003
-saveTime:4
-
-SourceItem[67]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File (DBL).vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (DBL).vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\error.llb\General Error Handler.vi
 saveLevel:0x42003
 saveTime:5
 
+SourceItem[67]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File (DBL).vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (DBL).vi
+saveLevel:0x42003
+saveTime:4
+
 SourceItem[68]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File (I64).vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (I64).vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (I64).vi
 saveLevel:0x42003
 saveTime:4
 
 SourceItem[69]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File (string).vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (string).vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File (string).vi
 saveLevel:0x42003
 saveTime:5
 
 SourceItem[70]
 sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\file.llb\Write To Spreadsheet File.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\file.llb\Write To Spreadsheet File.vi
 saveLevel:0x42000
-saveTime:3
+saveTime:4
 
 SourceItem[71]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Red.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Red.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Red.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Red.vi
 saveLevel:0x42001
-saveTime:40
+saveTime:46
 
 SourceItem[72]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Get Label Info Green.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Green.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Get Label Info Green.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Get Label Info Green.vi
 saveLevel:0x42001
-saveTime:29
+saveTime:27
 
 SourceItem[73]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\vi's\Write Data To Table.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\vi's\Write Data To Table.vi
-saveLevel:0x42003
-saveTime:5
-
-SourceItem[74]
-sourcePath:C:\Users\admin\Desktop\dxr\2013\37YY250X-1 Phillips DXR.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\37YY250X-1 Phillips DXR.vi
-saveLevel:0x42001
-saveTime:61
-
-SourceItem[75]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Can File be in LLB.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Can File be in LLB.vi
-saveLevel:0x42003
-saveTime:8
-
-SourceItem[76]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Get File Type Icon Image.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type Icon Image.vi
-saveLevel:0x42003
-saveTime:8
-
-SourceItem[77]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File a LabVIEW document.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a LabVIEW document.vi
-saveLevel:0x42003
-saveTime:8
-
-SourceItem[78]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
-saveLevel:0x42003
-saveTime:7
-
-SourceItem[79]
-sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File VI.vi
-destPath:C:\Users\admin\Desktop\dxr\2013\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File VI.vi
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\vi's\Write Data To Table.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\vi's\Write Data To Table.vi
 saveLevel:0x42003
 saveTime:6
 
-[AB_L Post Save](2.051)(115956):
+SourceItem[74]
+sourcePath:C:\Users\admin\Documents\dxr-lv\dxr\37YY250X-1 Phillips DXR.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\37YY250X-1 Phillips DXR.vi
+saveLevel:0x42001
+saveTime:60
 
-[AB_L Write Linker](2.329)(115956):
+SourceItem[75]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Can File be in LLB.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Can File be in LLB.vi
+saveLevel:0x42003
+saveTime:10
+
+SourceItem[76]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Get File Type Icon Image.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Get File Type Icon Image.vi
+saveLevel:0x42003
+saveTime:10
+
+SourceItem[77]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File a LabVIEW document.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a LabVIEW document.vi
+saveLevel:0x42003
+saveTime:11
+
+SourceItem[78]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File a type of library.vi
+saveLevel:0x42003
+saveTime:8
+
+SourceItem[79]
+sourcePath:C:\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\Utility\lvfile.llb\Is File VI.vi
+destPath:C:\Users\admin\Documents\dxr-lv\dxr\build\37YY250X-1 Phillips DXR.exe\1abvi3w\vi.lib\Utility\lvfile.llb\Is File VI.vi
+saveLevel:0x42003
+saveTime:8
+
+[AB_L Post Save](5.727)(112418):
+
+[AB_L Write Linker](6.003)(112418):
 ArraySizes[23,1,1,1]
 
 FilesToChange:
@@ -4580,11 +4580,11 @@ NewPaths (oldName, newName):
 37YY250X-1 Phillips DXR.exe\DXR Run Time Menu.rtm(DXR Run Time Menu.rtm, DXR Run Time Menu.rtm)
 
 
-[AB_L Set Top Level](2.437)(115956):
+[AB_L Set Top Level](6.114)(112418):
 
-[AB_L Close Refs](2.813)(107873):
+[AB_L Close Refs](7.041)(103795):
 
-[AB_L CloseBuild](4.276)(107809):
+[AB_L CloseBuild](8.423)(103795):
 
-[AB_L END](5.296)(107809):
-2/17/2022 9:33:25 PM
+[AB_L END](9.445)(103795):
+3/1/2022 9:49:00 PM
